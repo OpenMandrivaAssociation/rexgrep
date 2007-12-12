@@ -1,6 +1,6 @@
 %define name rexgrep
 %define version 1.2
-%define release 8mdk
+%define release  %mkrel ease
 
 Summary:   A graphical frontend to the grep command
 Name:      %{name}
