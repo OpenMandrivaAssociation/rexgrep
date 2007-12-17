@@ -12,7 +12,6 @@ Requires:	man
 Buildrequires:	gtk+1.2-devel
 Buildrequires:	xterm
 Buildrequires:	man
-BuildRoot: %{_tmppath}/%{name}-root
 Prefix:    %{_prefix}
 License: GPL
 Group:     File tools
