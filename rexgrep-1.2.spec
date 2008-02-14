@@ -64,5 +64,5 @@ EOF
 %doc AUTHORS COPYING ChangeLog INSTALL NEWS README TODO
 %{_bindir}/rexgrep
 %{_mandir}/man1/rexgrep.1*
-%{_menudir}/%{name}
+%{_datadir}/applications/mandriva-%{name}.desktop
 
