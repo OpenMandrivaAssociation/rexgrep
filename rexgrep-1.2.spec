@@ -15,6 +15,7 @@ Buildrequires:	man
 Prefix:    %{_prefix}
 License: GPL
 Group:     File tools
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 URL:	   http://rexgrep.tripod.com/rexgrep.htm
 
 %description
