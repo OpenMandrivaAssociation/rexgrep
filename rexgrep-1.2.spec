@@ -16,7 +16,7 @@ Prefix:    %{_prefix}
 License: GPL
 Group:     File tools
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
-URL:	   http://rexgrep.tripod.com/rexgrep.htm
+URL:	   https://rexgrep.tripod.com/rexgrep.htm
 
 %description
 Rexgrep is a graphical frontend to the grep command.
