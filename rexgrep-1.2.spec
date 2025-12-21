@@ -9,6 +9,11 @@ Release:   %{release}
 Source0:   %{name}-%{version}.tar.bz2
 Requires:	xterm
 Requires:	man
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 Buildrequires:	gtk+1.2-devel
 Buildrequires:	xterm
 Buildrequires:	man
